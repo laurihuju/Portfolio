@@ -32,4 +32,11 @@ Here are links to some game projects I have made. All these projects are made us
     - When an enemy sees the player, is starts chasing
     - Enemies can open doors
   - Door opening
+  - Interaction system (not made by me but I helped with the system)
+  - The elevator and code tags (not made by me)
   - Player movement (not made by me)
+  
+  #### The Development of the Game
+  
+  - The game was developed into its current state in five days (some bug fixes were made after that)
+  - Graphic and audio assets are downloaded from the internet
