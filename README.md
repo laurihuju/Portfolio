@@ -11,6 +11,7 @@ Here are links to some game projects I have made. All these projects are made us
 
 - A small 2D platformer game
 - Github with description: https://github.com/laurihuju/Tasohyppelypeli
+- WebGL build: https://public.bc.fi/s2000949/tasohyppelypeli/
 
 ### Surviving the apocalypse
 
