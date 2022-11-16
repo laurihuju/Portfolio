@@ -6,6 +6,7 @@ Here are links to some game projects I have made. All these projects are made us
 
 - A 2D horror adventure game made in a team of three people
 - Github with description: https://github.com/laurihuju/Dark-Dream
+- WebGL build: https://public.bc.fi/s2000949/dark_dream/proto2/
 
 ### Tasohyppelypeli (Platform Game)
 
